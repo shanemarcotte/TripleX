@@ -20,7 +20,7 @@ int main()
 	// Print sum and product to the terminal
 	std::cout << "-- Solve for xXx\n";
 	std::cout << "-- The numbers add up to: " << CodeSum << "\n";
-	std::cout << "-- The numbers multiply to give: " << CodeProduct << "\n\n";
+	std::cout << "-- The numbers multiply to give: " << CodeProduct << "\n";
 
 	int GuessA, GuessB, GuessC;
 	
