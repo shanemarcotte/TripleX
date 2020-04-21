@@ -1,7 +1,7 @@
-# Unreal Engine Developer Course - Triple X Game
+# Xander Cage - A Number guessing game
 
-This is the [Unreal Engine Developer](http://gdev.tv/urcgithub) course – it started as a runaway success on Kickstarter and has gone on to become one of the bestselling Unreal courses on the internet! Continually updated in response to student suggestions, you will benefit from the fact we have already taught over 360,336 students game development, many shipping commercial games as a result.
+This is a simple text based number guessing game written in C++ based on the plot of the 2002 action film xXx starring Vin Diesel
 
-You're welcome to download, fork or do whatever else legal with all the files! The real value is in our huge, high-quality online tutorials that accompany this repo. You can check out the course here: [Unreal Engine Developer]( http://gdev.tv/urcgithub)
+You will play as Vin Diesel during the film's climax while he disables the chemical weapon plated by the terrorist organization Anarchy 99
 
-This section is under development, and this readme will be updated once complete
+Enjoy, or don't.
