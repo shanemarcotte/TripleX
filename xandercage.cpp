@@ -27,10 +27,19 @@ int main()
 	std::cin >> GuessA;
 	std::cin >> GuessB;
 	std::cin >> GuessC;
-	std::cout << "You entered: " << GuessA << GuessB << GuessC;
-
+	
 	int GuessSum = GuessA + GuessB + GuessC;
 	int GuessProduct = GuessA * GuessB * GuessC;
+
+	if (GuessSum == CodeSum && GuessProduct == CodeProduct)
+	{
+		std::cout << "\n\nSilent Night has been disabled. You've saved the world!\n";
+	}
+	else
+	{
+		std::cout << "\n\nEveryone is dead now and it's all your fault.\n";
+	}
+
 
 	return 0;
 }
